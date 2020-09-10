@@ -1,0 +1,6 @@
+{
+  "localDb": "mongodb://localhost/grocerygram",
+  "jwtPrivateKey": "grocerygram_jwtPrivateKey",
+  "remoteDb": "mongodb+srv://grocerygram:capstone467@grocerygram.au50b.gcp.mongodb.net/grocerygram?retryWrites=true&w=majority"
+}
+  

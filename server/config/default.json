@@ -1,0 +1,5 @@
+{
+  "localDb": "Local mongo DB Url",
+  "jwtPrivateKey": "grocerygram_jwtPrivateKey",
+  "remoteDb": "this is the cloud mongodb url"
+}
